@@ -5,13 +5,13 @@ const Features: React.FC = () => {
   const features = [
     {
       icon: <Shield className="w-8 h-8 text-red-600" />,
-      title: "Auto-Moderation",
+      title: "Moderation",
       description: "Automatically detect and handle spam, inappropriate content, and raids."
     },
     {
       icon: <Lock className="w-8 h-8 text-red-600" />,
       title: "Advanced Security",
-      description: "Protect your server with verification systems and anti-bot measures."
+      description: "Protect your server with anti-nuke systems and anti-bot measures."
     },
     {
       icon: <Bell className="w-8 h-8 text-red-600" />,
