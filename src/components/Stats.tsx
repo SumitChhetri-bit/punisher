@@ -12,7 +12,7 @@ const Stats: React.FC = () => {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
           <div className="p-6 rounded-lg border border-red-900/30 bg-black/50 text-center">
-            <div className="text-4xl font-bold text-red-600 mb-2">1000+</div>
+            <div className="text-4xl font-bold text-red-600 mb-2">100+</div>
             <div className="text-gray-400">Servers Protected</div>
           </div>
           <div className="p-6 rounded-lg border border-red-900/30 bg-black/50 text-center">
